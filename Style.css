@@ -1,0 +1,25 @@
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+.topnav a {
+    font-family:"Abril Fatface", sans-serif;
+    float: left;
+    color: chocolate;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color:  box-decoration-break: clone;-webkit-box-decoration-break: clone;box-shadow: 2px 2px 5px 0 #ff1492, -2px -2px 2px 0 #00f, 3px 3px 10px 0 #ff0;
+    color:rgb(20, 145, 255);
+}
+.topnav img:hover{
+
+   box-decoration-break: clone;-webkit-box-decoration-break: clone;box-shadow: 2px 2px 5px 0 #dc5a1e, -1px -1px 3px 0 rgb(242, 255, 0), 5px 3px 5px 0 rgb(42, 105, 213);
+   
+}
+  
